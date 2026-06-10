@@ -1,1 +1,19 @@
-docs/
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated outputs
+weights.json
+houses.csv
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
